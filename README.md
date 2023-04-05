@@ -8,7 +8,7 @@ Vehicle hiring companies such as Uber, Careem, and Jeeny rely on fast localizati
 <!-- technology -->
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 
 ## Dataset source
