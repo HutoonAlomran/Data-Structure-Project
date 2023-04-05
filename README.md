@@ -9,7 +9,7 @@ Vehicles and customers are localized using GPS devices available in mobile phone
 the longitude and latitude coordinates as floating-point numbers. To simplify the task, however, we will divide the
 geographical area under consideration into small cells and use integers to identify each location on the map (see Figure
 1).
-<img src="image1.png" alt="Alt text" title="Optional title" width='50'>
+<img src="image1.png" alt="Alt text" title="Optional title" width='10'>
 Figure 1: The city is divided into small cells so that a location is identified by two integer coordinates x and y. Note
 that a single cell may contain several vehicles and customers.
 When a customer request a ride, only vehicles within a certain range of this customer will be contacted (see Figure
