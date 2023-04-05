@@ -9,6 +9,7 @@ Vehicles and customers are localized using GPS devices available in mobile phone
 the longitude and latitude coordinates as floating-point numbers. To simplify the task, however, we will divide the
 geographical area under consideration into small cells and use integers to identify each location on the map (see Figure
 1).
+<img src="image1.png" alt="Alt text" title="Optional title">
 
 <!-- technology -->
 ## Bulit With:
